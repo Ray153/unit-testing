@@ -1,4 +1,4 @@
-import { DisplayMode, Television } from "../television/Television"
+import { DisplayMode, Television } from "../Services/television/Television"
 const tvSettings = {
     power: false,
     mute: false,
