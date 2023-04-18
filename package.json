@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/dist/index.js",
   "scripts": {
-    "jest:unit": "jest"
+    "jest:unit": "jest --coverage"
   },
   "repository": {
     "type": "git",
